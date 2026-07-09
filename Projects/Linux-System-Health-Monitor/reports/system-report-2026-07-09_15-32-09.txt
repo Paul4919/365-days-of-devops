@@ -1,0 +1,56 @@
+=======================================
+     LINUX SYSTEM HEALTH MONITOR
+=======================================
+
+Current User:
+bignero
+
+Hostname:
+IKEH
+
+Current Date:
+Thu Jul  9 15:32:09 WAT 2026
+
+Current Directory:
+/home/bignero/devops/365-days-of-devops/Projects/Linux-System-Health-Monitor
+
+System Uptime:
+ 15:32:09 up  5:43,  1 user,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           7.5Gi       649Mi       6.8Gi       3.2Mi       244Mi       6.8Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         931G  467G  464G  51% /usr/lib/wsl/drivers
+/dev/sdc       1007G  1.9G  954G   1% /
+none            3.8G   76K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.4M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            3.8G   96K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   96K  3.8G   1% /mnt/wslg/doc
+C:\             931G  467G  464G  51% /mnt/c
+tmpfs           765M   16K  765M   1% /run/user/1001
+
+Top 5 Running Processes:
+    PID COMMAND         %MEM %CPU
+     93 systemd-udevd    0.0  0.0
+    290 Relay(291)       0.0  0.0
+     51 systemd-journal  0.2  0.0
+      1 systemd          0.1  0.0
+    158 wsl-pro-service  0.2  0.0
+
+Kernel Version:
+5.15.167.4-microsoft-standard-WSL2
+
+=======================================
+System Health Check Complete
+=======================================
